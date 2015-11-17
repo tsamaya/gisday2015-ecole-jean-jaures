@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Créer des cartes modernes</title>
+
+		<meta name="description" content="Introduction au SIG">
+		<meta name="author" content="Arnaud Ferrand">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+		<link rel="stylesheet" href="bower_components/reveal.js/css/reveal.css">
+		<link rel="stylesheet" href="bower_components/reveal.js/css/theme/black.css" id="theme">
+
+		<!-- Code syntax highlighting -->
+		<link rel="stylesheet" href="bower_components/reveal.js/lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'bower_components/reveal.js/css/print/pdf.css' : 'bower_components/reveal.js/css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+  <div class="reveal">
+
+    <div class="slides">
+      <section data-markdown="slides/01-index.md"></section>
+
+      <section data-markdown="slides/02-maptimealpes-gisday.md"></section>
+
+      <section>
+        <section data-markdown="slides/03-what-is-a-map.md"></section>
+        <section data-background="images/doramap.png"></section>
+        <section data-background="images/treasuremap.jpg"></section>
+        <section data-background="images/random-wallpapers-old-map-and-compass-wallpaper-30884.png"></section>
+        <section data-background="images/Navigation-App-for-Parrot-ASTEROID.jpg"></section>
+        <section data-markdown="slides/04-maps-help-people.md"></section>
+      </section>
+
+      <section>
+        <section data-markdown="slides/05-how-do-we-make-maps.md"></section>
+        <section data-background="http://i.imgur.com/ggUhh.gif"></section>
+        <section data-background="images/fig4-10_digitizing_table.jpg"></section>
+        <section data-background="images/landsat7_orbit2.jpg"></section>
+        <section data-background="https://www.e-education.psu.edu/geog480/sites/www.e-education.psu.edu.geog480/files/geog883/image/L05_fig02.jpg"></section>
+        <section data-background="images/trimble.jpg"></section>
+        <section data-background="images/handphonemap.png"></section>
+        <section data-background="images/mobile%20mapping%20van%202_Large.jpg"></section>
+      </section>
+
+      <section>
+        <section data-markdown="slides/06-gis.md"></section>
+        <section data-markdown="slides/06-2-gis.md"></section>
+        <section data-background="http://clasfaculty.ucdenver.edu/callen/1202/Intro/PortrayEarth/GISystem.jpg"></section>
+        <section data-background="images/Rusty_tools.JPG"></section>
+        <section data-background="images/CERC_ArcGIS_tools_3.jpg"></section>
+        <section data-background="images/bootstrapmap.png"></section>
+      </section>
+
+      <section data-markdown="slides/07-cool-maps.md"></section>
+
+      <section>
+        <section data-markdown="slides/08-what-do-i-do.md"></section>
+        <section data-background="http://i.giphy.com/BemKqR9RDK4V2.gif"></section>
+        <section data-background="images/desk.jpg"></section>
+        <section data-background="images/atom.png"></section>
+        <section data-markdown="slides/09-skills.md"></section>
+      </section>
+
+      <section>
+        <section data-background="images/charlie-mapping.jpg" data-markdown="slides/10-you-can-do-this-too.md"></section>
+      </section>
+
+      <section data-background="images/akbar.jpg" data-markdown="slides/thank-you.md"></section>
+
+    </div>
+
+  </div>
+
+  <script src="bower_components/reveal.js/lib/js/head.min.js"></script>
+	<script src="bower_components/reveal.js/js/reveal.js"></script>
+
+	<script>
+		// Full list of configuration options available at:
+		// https://github.com/hakimel/reveal.js#configuration
+		Reveal.initialize({
+			controls: true,
+			progress: true,
+			history: true,
+			center: true,
+			transition: 'convex', // none/fade/slide/convex/concave/zoom
+			// Optional reveal.js plugins
+			dependencies: [
+				{ src: 'bower_components/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+				{ src: 'bower_components/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+				{ src: 'bower_components/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+				{ src: 'bower_components/reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+				{ src: 'bower_components/reveal.js/plugin/zoom-js/zoom.js', async: true },
+				{ src: 'bower_components/reveal.js/plugin/notes/notes.js', async: true }
+			]
+		});
+	</script>
+
+</body>
+
+</html>

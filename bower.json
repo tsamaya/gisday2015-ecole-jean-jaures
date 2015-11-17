@@ -1,0 +1,31 @@
+{
+  "name": "intro-sig",
+  "version": "1.0.0",
+  "authors": [
+    "arnaud ferrand <arferrand@gmail.com>"
+  ],
+  "description": "présentation introduction au SIG",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "slides",
+    "reveal",
+    "sig",
+    "gis",
+    "intro",
+    "introduction"
+  ],
+  "license": "MIT",
+  "homepage": "http://tsamaya.github.io/intro-sig/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reveal.js": "~3.2.0"
+  }
+}
