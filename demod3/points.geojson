@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "id": "route1",
+      "name": "Ecole"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.720583200454711,
+        45.19059670719038
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "id": "route1",
+      "name":"Along route"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.72138786315918,
+        45.19047572859412
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "id": "route1",
+      "name":"Along route"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.721033811569213,
+        45.18923568315622
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "id": "route1",
+      "name":"Along route"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.722675323486328,
+        45.189039088105694
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "id": "route1",
+      "name":"Along route"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.723501443862914,
+        45.18786706506039
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "id": "route1",
+      "name":"Along route"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.724499225616455,
+        45.18826026257851
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "id": "route1",
+      "name": "Pâtisserie"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.724231004714966,
+        45.18851735179487
+      ]
+    }
+  }]
+}

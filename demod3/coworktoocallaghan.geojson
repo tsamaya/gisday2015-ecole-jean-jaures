@@ -1,0 +1,153 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "id": "route1",
+      "name": "Cowork"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.733420252799988,
+        45.19238489207442
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "id": "route1",
+      "name": "Along route"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.7333290576934814,
+        45.19132635389664
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "id": "route1",
+      "name": "Along route"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.732870399951935,
+        45.19103147189813
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "id": "route1",
+      "name": "Along route"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.730882883071899,
+        45.192415135733064
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "id": "route1",
+      "name": "Along route"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.730464458465576,
+        45.19238111161596
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "id": "route1",
+      "name": "Along route"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.730105042457581,
+        45.19247940345435
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "id": "route1",
+      "name": "Along route"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.729799270629883,
+        45.19266086486378
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "id": "route1",
+      "name": "Along route"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.729826092720032,
+        45.19295573842014
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "id": "route1",
+      "name": "Along route"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.729085803031921,
+        45.193095613803635
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "id": "route1",
+      "name": "Along route"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.729048252105712,
+        45.19356438285246
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "id": "route1",
+      "name": "O'Callaghan Pub"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.7294076681137085,
+        45.193700476369195
+      ]
+    }
+  }]
+}
