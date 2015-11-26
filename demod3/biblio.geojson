@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "route1",
+        "name": "Ecole Jean-Jaurès"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.720829963684082,
+          45.19050597326729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "route1",
+        "name": "Along route"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.721355676651001,
+          45.190415239199545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "route1",
+        "name": "Along route"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7214683294296265,
+          45.19071390496028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "route1",
+        "name": "Along route"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.721189379692078,
+          45.191118424441136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "route1",
+        "name": "Along route"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.724949836730957,
+          45.191647697924644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "route1",
+        "name": "Along route"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.725030303001404,
+          45.19139440337164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "route1",
+        "name": "Along route"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.725228786468506,
+          45.19142464755663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "route1",
+        "name": "Along route"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.725598931312561,
+          45.191594770797764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "route1",
+        "name": "Along route"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.725518465042114,
+          45.19188964987778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "route1",
+        "name": "Along route"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.726242661476135,
+          45.192033308363285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "route1",
+        "name": "Along route"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.727213621139526,
+          45.1922525758789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "route1",
+        "name": "Bibli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.727224349975586,
+          45.19250586661257
+        ]
+      }
+    }
+  ]
+}
