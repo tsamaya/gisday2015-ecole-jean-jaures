@@ -1,3 +1,3 @@
 ##  Allons au ski
 
-<iframe width='100%' height='520' frameborder='0' src='demoapi/demo3D.html'></iframe>
+[![ski](images/ski.png)](demoapi/demo3D.html) <!-- .element: target="_blank" -->
