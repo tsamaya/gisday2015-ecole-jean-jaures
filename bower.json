@@ -2,7 +2,7 @@
   "name": "intro-sig",
   "version": "1.0.0",
   "authors": [
-    "arnaud ferrand <arferrand@gmail.com>"
+    "arnaud ferrand"
   ],
   "description": "présentation introduction au SIG",
   "main": "index.html",
@@ -15,7 +15,7 @@
     "intro",
     "introduction"
   ],
-  "license": "MIT",
+  "license": "Apache 2.0",
   "homepage": "http://tsamaya.github.io/intro-sig/",
   "private": true,
   "ignore": [
